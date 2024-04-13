@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(81, 206, 231);
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+}
